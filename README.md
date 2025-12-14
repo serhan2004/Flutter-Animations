@@ -1,16 +1,12 @@
-# ogrenme
+# Flutter Animations - Hands-On Lab
 
-A new Flutter project.
+This repository serves as a personal hands-on lab for learning and experimenting with Flutter's animation widgets. The code here is my own implementation of the examples and concepts found in the official Flutter documentation.
 
-## Getting Started
+## Purpose
 
-This project is a starting point for a Flutter application.
+The main goal of this project is to deepen my understanding of Flutter's animation system by actively coding along with the official guide on [Animation and motion widgets](https://docs.flutter.dev/ui/widgets/animation). It's a practical way for me to learn.
 
-A few resources to get you started if this is your first Flutter project:
+Feel free to explore the code, but please note that this is a learning project and not a production-ready library.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+--Serhan ERGÜL

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ogrenme/animated_Container.dart';
-import 'package:ogrenme/animated_swticher.dart';
+import 'package:ogrenme/animated_physical_model.dart';
 
 void main() => runApp(const MyApp());
 
@@ -9,8 +8,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: Scaffold(body:AnimatedContainerExample() ));
+    return MaterialApp(home: Scaffold(body: AnimatedPhysicalModelExample()));
   }
 }
-
-
